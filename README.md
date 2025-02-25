@@ -1,11 +1,8 @@
-
-
        ___                 _      __ _             
-      / __\_/\__ ___ _   _| | __ /__\ | ___  _ __  
-     / _\ \    // __| | | | |/ //_\ | |/ _ \| '_ \ 
-    / /   /_  _\ (__| |_| |   <//__ | | (_) | | | |
-    \/      \/  \___|\__,_|_|\_\__/ |_|\___/|_| |_|
-
+      / __\_/\__ ___ _   _| | __ /__/ | ___  _ __  
+     / _\ \    // __| | | | |/ // _\ | |/ _ \| '_ \
+    / /   /_  _\ (__| |_| |   </  __ | | (_) | | | |
+    \/      \/  \___|\__,_|_|\_\_/  |_|\___/|_| |_|
 
 A custom IPA that removes the X branding while keeping the new like, retweet, etc. icons.
 
@@ -49,6 +46,11 @@ Got ideas or improvements?
 -   Open an **Issue**.
 -   DM me on Twitter: [supercitron](https://x.com/supercitron).
 
+## Project Status
+
+I am switching to Android, so I will no longer be maintaining this project.
+I am archiving the repository in the hope that someone else will take over and continue the work.
+
 ## Contact
 
 Questions or support? Reach out on Twitter: [supercitron](https://x.com/supercitron).  
@@ -57,3 +59,4 @@ Questions or support? Reach out on Twitter: [supercitron](https://x.com/supercit
 ## Disclaimer
 
 This project is **not affiliated** with Twitter (X) or Elon Musk.
+
